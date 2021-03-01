@@ -19,8 +19,7 @@ gem "minima", "~> 2.5"
 # gem "github-pages", group: :jekyll_plugins
 # gem 'github-pages', '212', group: :jekyll_plugins 
 
- source 'https://rubygems.org'
- gem 'github-pages', '>=212', group: :jekyll_plugins
+gem 'github-pages', '>=212', group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
